@@ -1,0 +1,39 @@
+#vegetable guessing program
+
+#=================
+# IMPORTS
+#=================
+
+from time import sleep
+
+
+
+
+
+#=================
+#main
+#=================
+
+print("""Welcome to the vegetable mind readding game.
+      You can pick between Peas, Broccoli, Carrot or Sweetcorn.
+      Please make your choice now""")
+sleep(5)
+input("Ready?")
+answer = input("Is the vegetable green? Y/N ")
+
+#=================
+#sub(place holder)
+#=================
+
+if answer == "y":
+    answer = input("Does it look like a tree? Y/N ").lower()
+    if answer == "y":
+        print("It must be broccoli!")
+    else:
+        print("It must be peas!")
+else:
+    answer = input("Is it orange? Y/N ").lower()
+    if answer == "y":
+        print("It must be a carrot!")
+    else:
+        print("It must be sweetcorn!")

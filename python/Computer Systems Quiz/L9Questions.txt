@@ -1,0 +1,46 @@
+Which kind of memory is volatile?,RAM
+What number system do computers use?,Binary
+Which of these best describes an embedded system?,A system with limited resources designed to perform a specific function
+What is the main purpose of an operating system?,To manage hardware and software resources and allow software to communicate with hardware
+Which component tells the other CPU components what to do?,Control Unit
+What is the purpose of the registers in a CPU?,To provide fast memory locations for the CPU
+What does CIR stand for?,Current Instruction Register
+Which architecture stores data and instructions in the same memory?,Von Neumann model
+Which is the fastest cache?,L1
+What does volatile mean?,Data is lost when the power is turned off
+Why does a computer need secondary storage?,To store data long-term and permanently
+Which type of storage uses electronic circuits?,Solid-state storage
+Which type of storage uses pits and lands?,Optical storage
+What do optical storage pits represent?,0
+What do optical storage lands represent?,1
+Magnetic storage writes data by
+,Magnetising and demagnetising sections of spinning platters
+Which storage type has the largest capacity?,Magnetic storage
+Which storage type is the most expensive per GB?,Solid-state storage
+Which storage type is cheapest for small capacity?,Optical storage
+Which type of storage is typically the slowest?,Optical storage
+Which component of the CPU carries out mathematical operations?,ALU
+Which component regulates the cycles per second?,Clock
+Which component transports data around the CPU?,Bus
+Which component stores the address of the next instruction?,Program Counter
+What are ROM and RAM examples of?,Main memory
+What type of memory is read-only?,ROM
+What type of memory is lost when power is turned off?,RAM
+Where are instructions stored when a program is running?,RAM
+Which type of memory is non-volatile?,ROM
+Which type of memory is an extension of RAM when it becomes full?,Virtual memory
+What does cache store?,Frequently used instructions and data
+Which level of cache is closest to the CPU?,L1
+Why does more cache improve performance?,It reduces the need to fetch from RAM
+What does GHz measure?,Clock speed
+If the clock speed doubles, what usually increases?,The number of FDE cycles per second
+What does adding more CPU cores allow?,More cycles to run in parallel
+Which CPU component stores temporary calculation data?,Accumulator
+What is the motherboard?,The main circuit board connecting all components
+What type of storage allows collaboration from different locations?,Cloud storage
+What is a disadvantage of cloud storage?,Requires stable internet connection
+Why might optical storage be chosen for distributing media?,It is cheap to produce
+Why might magnetic storage be chosen for backups?,It has very large capacity
+Why might solid-state storage be chosen for portable devices?,It has no moving parts and is fast
+Which number system do computers use?,Binary
+Which kind of memory is volatile?,RAM
